@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **intersting projects**
 
-- 👨‍💻 All of my projects are available at [himanshxrma](https://himanshxrma.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [himansxarma](https://himansxarma.github.io/Portfolio/)
 
 - 💬 Ask me about **Data Science & Web Development**
 
