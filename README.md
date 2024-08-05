@@ -67,9 +67,9 @@
 <table>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshxrma&show_icons=true&locale=en" alt="himanshxrma" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=himansxarma&show_icons=true&locale=en" alt="himanshxrma" />
     </td>
     <td>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshxrma&" alt="himanshxrma" />    </td>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himansxarma&" alt="himanshxrma" />    </td>
   </tr>
 </table>
