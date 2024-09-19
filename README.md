@@ -60,7 +60,6 @@
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-333?style=flat&logo=google-cloud)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 ![Heroku](https://img.shields.io/badge/-Heroku-333?style=flat&logo=heroku)
-![Electron](https://img.shields.io/badge/-Electron-333?style=flat&logo=electron)
 ![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
 
 ## Github Stats
