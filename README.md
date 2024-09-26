@@ -54,7 +54,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![VS Code](https://img.shields.io/badge/-VS_Code-333?style=flat&logo=visual-studio-code)
 ![Android](https://img.shields.io/badge/-Android-333?style=flat&logo=android)
-![Arduino](https://img.shields.io/badge/-Arduino-333?style=flat&logo=arduino)
 ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/-Azure-333?style=flat&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-333?style=flat&logo=google-cloud)
