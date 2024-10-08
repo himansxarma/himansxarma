@@ -18,7 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/himansharmaa)
 ![CodeChef](https://img.shields.io/badge/-CodeChef-333?style=flat&logo=codechef&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/-HackerRank-333?style=flat&logo=hackerrank&logoColor=white)
-![LeetCode](https://img.shields.io/badge/-LeetCode-333?style=flat&logo=leetcode&logoColor=white)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-333?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shoopin/)
 ![HackerEarth](https://img.shields.io/badge/-HackerEarth-333?style=flat&logo=hackerearth&logoColor=white)
 
 ## Languages and Tech
