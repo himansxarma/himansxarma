@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [himansxarma](https://himansxarma.github.io/Portfolio/)
 
-- 💬 Ask me about **Data Science & Web Development**
+- 💬 Ask me about **Data Science & Web Developments**
 
 - 📫 How to reach me **himansharma.cse@gmail.com**
 
