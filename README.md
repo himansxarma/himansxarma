@@ -59,14 +59,3 @@
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-333?style=flat&logo=google-cloud)
 ![Heroku](https://img.shields.io/badge/-Heroku-333?style=flat&logo=heroku)
 ![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
-
-## Github Stats
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=himansxarma&show_icons=true&locale=en" alt="himansxarma" />
-    </td>
-    <td>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himansxarma&" alt="himansxarma" />    </td>
-  </tr>
-</table>
