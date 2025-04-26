@@ -56,6 +56,5 @@
 ![Android](https://img.shields.io/badge/-Android-333?style=flat&logo=android)
 ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/-Azure-333?style=flat&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-333?style=flat&logo=google-cloud)
 ![Heroku](https://img.shields.io/badge/-Heroku-333?style=flat&logo=heroku)
 ![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
